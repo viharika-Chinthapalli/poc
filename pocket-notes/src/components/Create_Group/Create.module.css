@@ -84,7 +84,7 @@ li:nth-child(6) {
 @media screen and (max-width: 1200px) {
   .container {
     width: 40%;
-    height: 20%;
+    height: 30%;
   }
 
   .grp_name input {
